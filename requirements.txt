@@ -1,9 +1,9 @@
-opencv-python-headless
-mediapipe
-ipykernel
+
 streamlit
+opencv-python-headless
+mediapipe==0.10.21
+numpy<2
 google-generativeai
 python-dotenv
-streamlit
 streamlit-webrtc
 streamlit-autorefresh
