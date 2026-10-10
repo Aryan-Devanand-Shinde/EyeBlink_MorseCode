@@ -1,0 +1,8 @@
+opencv-python
+mediapipe
+ipykernel
+streamlit
+google-generativeai
+python-dotenv
+streamlit
+streamlit-webrtc
