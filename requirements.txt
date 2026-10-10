@@ -1,6 +1,9 @@
 
 streamlit==1.65.0
-mediapipe==1.1.0
+mediapipe==0.10.21
+opencv-contrib-python==4.11.0.86
+numpy==1.26.4
+protobuf==4.25.8
 google-generativeai==0.8.6
 python-dotenv==1.2.4
 streamlit-webrtc==0.78.1
