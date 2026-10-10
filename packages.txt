@@ -2,3 +2,6 @@ libgl1
 libglib2.0-0
 libgtk-3-0
 libavdevice-dev
+libegl1
+libgl1
+libglib2.0-0
